@@ -1,0 +1,51 @@
+/*
+ * Copyright (c) 2012 Carnegie Institution for Science. All rights reserved.
+ */
+
+package org.tair.sql.expression;
+
+
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.Collections;
+import java.util.List;
+
+
+/**
+ * An abstract implementation of the IMultipleParameterExpression interface and
+ * a subclass of the Expression class that implements the value binding
+ * mechanism. Concrete subclasses must implement the abstract method getSql().
+ * 
+ * @author Robert J. Muller
+ */
+public abstract class AbstractMultipleParameterExpression extends Expression
+    implements IMultipleParameterExpression {
+  private List<Value<Object>> values;
+
+  @Override
+  public int bind(PreparedStatement stmt, int index) throws SQLException {
+    for (Value<Object> value : values) {
+      if (value.getValue() instanceof Integer) {
+        stmt.setInt(index, (Integer)value.getValue());
+      } else if (value.getValue() instanceof String) {
+        stmt.setString(index, (String)value.getValue());
+      }
+      index++;
+    }
+    // Back the index up to the last one set.
+    return --index;
+  }
+
+  @Override
+  public List<Value<Object>> getValueList() {
+    return Collections.unmodifiableList(values);
+  }
+
+  @Override
+  public void setValueList(List<Value<Object>> values) {
+    this.values = values;
+  }
+
+  @Override
+  public abstract void getSql(StringBuilder builder);
+}

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tair-repos/!svn/ver/12335/branches/otrunk/tair-sql/src/org/tair/sql/expression
+END
+BigDecimalParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/tair-repos/!svn/ver/12306/branches/otrunk/tair-sql/src/org/tair/sql/expression/BigDecimalParameterExpression.java
+END
+ISubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/tair-repos/!svn/ver/12313/branches/otrunk/tair-sql/src/org/tair/sql/expression/ISubqueryExpression.java
+END
+StringExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/StringExpression.java
+END
+IntegerParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/tair-repos/!svn/ver/12306/branches/otrunk/tair-sql/src/org/tair/sql/expression/IntegerParameterExpression.java
+END
+BooleanExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/BooleanExpression.java
+END
+IntegerSubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/IntegerSubqueryExpression.java
+END
+ISelectExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tair-repos/!svn/ver/12298/branches/otrunk/tair-sql/src/org/tair/sql/expression/ISelectExpression.java
+END
+UnsupportedJdbcDataTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/UnsupportedJdbcDataTypeException.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tair-repos/!svn/ver/12298/branches/otrunk/tair-sql/src/org/tair/sql/expression/Expression.java
+END
+NoSuchLexicalVariableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/NoSuchLexicalVariableException.java
+END
+AbstractSingleParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/AbstractSingleParameterExpression.java
+END
+BigIntegerExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/BigIntegerExpression.java
+END
+StringSubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/StringSubqueryExpression.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/Value.java
+END
+ISingleParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/ISingleParameterExpression.java
+END
+StringParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/tair-repos/!svn/ver/12306/branches/otrunk/tair-sql/src/org/tair/sql/expression/StringParameterExpression.java
+END
+AbstractMultipleParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/AbstractMultipleParameterExpression.java
+END
+TimestampExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/TimestampExpression.java
+END
+IScalarExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tair-repos/!svn/ver/12298/branches/otrunk/tair-sql/src/org/tair/sql/expression/IScalarExpression.java
+END
+ScalarSubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/tair-repos/!svn/ver/12313/branches/otrunk/tair-sql/src/org/tair/sql/expression/ScalarSubqueryExpression.java
+END
+TimestampParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tair-repos/!svn/ver/12306/branches/otrunk/tair-sql/src/org/tair/sql/expression/TimestampParameterExpression.java
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tair-repos/!svn/ver/12306/branches/otrunk/tair-sql/src/org/tair/sql/expression/Utilities.java
+END
+BigDecimalExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/BigDecimalExpression.java
+END
+IMultipleParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/IMultipleParameterExpression.java
+END
+BooleanSubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/BooleanSubqueryExpression.java
+END
+AliasedExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tair-repos/!svn/ver/12297/branches/otrunk/tair-sql/src/org/tair/sql/expression/AliasedExpression.java
+END
+BigIntegerParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/tair-repos/!svn/ver/12306/branches/otrunk/tair-sql/src/org/tair/sql/expression/BigIntegerParameterExpression.java
+END
+IExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tair-repos/!svn/ver/12297/branches/otrunk/tair-sql/src/org/tair/sql/expression/IExpression.java
+END
+SubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12335/branches/otrunk/tair-sql/src/org/tair/sql/expression/SubqueryExpression.java
+END
+IAliasedExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/IAliasedExpression.java
+END
+BigIntegerSubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/BigIntegerSubqueryExpression.java
+END
+BooleanParameterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/tair-repos/!svn/ver/12306/branches/otrunk/tair-sql/src/org/tair/sql/expression/BooleanParameterExpression.java
+END
+ParameterizedSubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/tair-repos/!svn/ver/12335/branches/otrunk/tair-sql/src/org/tair/sql/expression/ParameterizedSubqueryExpression.java
+END
+IntegerExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/IntegerExpression.java
+END
+TimestampSubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/TimestampSubqueryExpression.java
+END
+BigDecimalSubqueryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/expression/BigDecimalSubqueryExpression.java
+END

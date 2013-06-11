@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use
+END
+Predicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/Predicate.html
+END
+And.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/And.html
+END
+InListPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/InListPredicate.html
+END
+ComparisonPredicate.Operator.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/ComparisonPredicate.Operator.html
+END
+Not.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/Not.html
+END
+Or.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/Or.html
+END
+NullPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/NullPredicate.html
+END
+RelationalPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/RelationalPredicate.html
+END
+Group.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/Group.html
+END
+ComparisonPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/ComparisonPredicate.html
+END
+ExistsPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/ExistsPredicate.html
+END
+InSubqueryPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/class-use/InSubqueryPredicate.html
+END

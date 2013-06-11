@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate
+END
+Predicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/Predicate.html
+END
+And.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/And.html
+END
+InListPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/InListPredicate.html
+END
+Not.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/Not.html
+END
+NullPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/NullPredicate.html
+END
+RelationalPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/RelationalPredicate.html
+END
+ComparisonPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/ComparisonPredicate.html
+END
+InSubqueryPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/InSubqueryPredicate.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/package-tree.html
+END
+ComparisonPredicate.Operator.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/ComparisonPredicate.Operator.html
+END
+Or.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/Or.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/package-summary.html
+END
+Group.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/Group.html
+END
+ExistsPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/doc/org/tair/sql/predicate/ExistsPredicate.html
+END

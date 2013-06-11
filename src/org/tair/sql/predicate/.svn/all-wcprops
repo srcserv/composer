@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tair-repos/!svn/ver/12313/branches/otrunk/tair-sql/src/org/tair/sql/predicate
+END
+NullPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/NullPredicate.java
+END
+RelationalPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/RelationalPredicate.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/Group.java
+END
+ComparisonPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12313/branches/otrunk/tair-sql/src/org/tair/sql/predicate/ComparisonPredicate.java
+END
+ExistsPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/ExistsPredicate.java
+END
+InSubqueryPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/InSubqueryPredicate.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/Predicate.java
+END
+And.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/And.java
+END
+InListPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/InListPredicate.java
+END
+Not.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/Not.java
+END
+Or.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/predicate/Or.java
+END

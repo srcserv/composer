@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/src/org/tair/sql/table
+END
+InnerJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tair-repos/!svn/ver/12313/branches/otrunk/tair-sql/src/org/tair/sql/table/InnerJoin.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/table/Table.java
+END
+LeftOuterJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tair-repos/!svn/ver/12336/branches/otrunk/tair-sql/src/org/tair/sql/table/LeftOuterJoin.java
+END
+TableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/table/TableReference.java
+END
+Join.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tair-repos/!svn/ver/12287/branches/otrunk/tair-sql/src/org/tair/sql/table/Join.java
+END
+RightOuterJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tair-repos/!svn/ver/12336/branches/otrunk/tair-sql/src/org/tair/sql/table/RightOuterJoin.java
+END
+Subquery.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tair-repos/!svn/ver/12340/branches/otrunk/tair-sql/src/org/tair/sql/table/Subquery.java
+END

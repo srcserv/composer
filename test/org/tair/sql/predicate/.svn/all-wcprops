@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tair-repos/!svn/ver/12335/branches/otrunk/tair-sql/test/org/tair/sql/predicate
+END
+ComparisonPredicateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tair-repos/!svn/ver/12313/branches/otrunk/tair-sql/test/org/tair/sql/predicate/ComparisonPredicateTest.java
+END
+ExistsPredicateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/tair-repos/!svn/ver/12335/branches/otrunk/tair-sql/test/org/tair/sql/predicate/ExistsPredicateTest.java
+END
